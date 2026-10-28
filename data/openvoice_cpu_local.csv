@@ -1,0 +1,2 @@
+t_utc,tool,hardware,device,melo_tts_s,melo_audio_s,melo_rtf,load_s,se_extract_s,convert_s_median,convert_rtf,note,measurement_kind
+2026-10-27T14:27:28.549261+00:00,openvoice_v2+melotts,"PC local Intel i7-1355U (10 nucleos/12 threads), Docker python:3.10-slim, 10 CPUs, 7 GB",cpu,30.41,4.71,6.462,12.0,111.12,4.35,0.925,1a execucao inclui aquecimento; se_extractor patchado para faster-whisper CPU int8 (o original fixa cuda),measured

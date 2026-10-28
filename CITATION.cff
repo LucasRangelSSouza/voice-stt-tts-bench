@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Voice speech-to-text and text-to-speech bench"
+authors:
+  - family-names: Rangel
+    given-names: Lucas
+type: software
+date-released: 2026-10-28
+repository-code: "https://github.com/LucasRangelSSouza/voice-stt-tts-bench"

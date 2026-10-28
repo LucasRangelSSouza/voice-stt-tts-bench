@@ -1,0 +1,4 @@
+gpu,case,audio_s,wall_s,rtf,wer
+RTX 4090,curto,6.75,0.69,0.103,0.083
+RTX 4090,medio,14.77,0.29,0.02,0.519
+RTX 4090,longo,28.28,1.36,0.048,0.294

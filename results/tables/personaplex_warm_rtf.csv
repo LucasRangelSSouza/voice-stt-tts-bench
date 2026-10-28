@@ -1,0 +1,6 @@
+gpu,warm_real_time_factor_40s_audio
+RTX PRO 6000,0.765
+L40S,0.822
+RTX 5090,0.827
+RTX 4090,0.921
+RTX 3090,1.077

@@ -1,0 +1,18 @@
+{
+ "f5_best_gpu": "RTX 4090",
+ "f5_best_rtf": 0.056,
+ "f5_calls": 32,
+ "f5_cheapest_usd_per_audio_hour": 0.020574814814814817,
+ "f5_cold_max_rtf": 44.326,
+ "f5_cold_n": 2,
+ "f5_worst_gpu": "GB10",
+ "f5_worst_rtf": 0.14,
+ "openvoice_convert_rtf_cpu": 0.925,
+ "openvoice_melo_rtf_cpu": 6.462,
+ "personaplex_best_rtf": 0.7654531085,
+ "personaplex_gpus": 5,
+ "personaplex_worst_rtf": 1.07654135875,
+ "whisper_large_rtf": 0.1862,
+ "whisper_turbo_rtf": 0.0547,
+ "whisper_turbo_wer": 0.0
+}

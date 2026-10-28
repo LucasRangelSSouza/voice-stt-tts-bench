@@ -1,0 +1,27 @@
+tool,gpu,run,metric,value
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",RTX 3090,1,failed_fp8_matmul_needs_cc_8_9,1.0
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",RTX 4090,1,wall_s,39.094529634
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",RTX 4090,2,wall_s,39.105809566
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",RTX 5090,1,wall_s,23.634383588
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",RTX 5090,2,wall_s,27.434110089
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",RTX 5090,3,wall_s,31.073304333
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",L40S,1,wall_s,26.767298107
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",L40S,2,wall_s,27.221155399
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",L40S,3,wall_s,27.290703312
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",RTX PRO 6000,1,wall_s,27.520469223
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",RTX PRO 6000,2,wall_s,27.635068861
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",RTX PRO 6000,3,wall_s,28.312650805
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",GB10,1,wall_s,101.415518512
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",GB10,2,wall_s,102.769893566
+"FLUX.3 Klein (official CLI, 1024x1024, 16 steps distilled)",GB10,3,wall_s,130.907919035
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",RTX 3090,1,wall_s,210.053970789
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",RTX 3090,2,wall_s,43.06165435
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",RTX 4090,1,wall_s,211.11971322
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",RTX 4090,2,wall_s,36.85709642
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",RTX 5090,1,wall_s,33.061970587
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",RTX 5090,2,wall_s,640.734981497
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",L40S,1,wall_s,239.468663273
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",L40S,2,wall_s,32.892590795
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",RTX PRO 6000,1,wall_s,148.89120079
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",RTX PRO 6000,2,wall_s,30.61812434
+"NVIDIA PersonaPlex 7B (full-duplex voice, 40 s of audio)",GB10,1,failed_missing_module_on_arm,1.0
